@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "01",
+    "image": "https://i.ibb.co/JzhyYG4/1.png",
+    "title": "Palm Harbor",
+    "address": "2699 Green Valley, Highland Lake, FL",
+    "price": "2,095",
+    "beds": "3",
+    "bathrooms": "2",
+    "size": "5x7",
+    "status": "active",
+    "sqm": "128"
+  },
+  {
+    "_id": "02",
+    "image": "https://i.ibb.co/w6dyNwr/2.png",
+    "title": "Beverly Springfield",
+    "address": "2821 Lake Sevilla, Palm Hardor, TX",
+    "price": "2,700",
+    "beds": "4",
+    "bathrooms": "2",
+    "size": "6x7.5",
+    "status": "occupied",
+    "sqm": "112"
+  },
+  {
+    "_id": "03",
+    "image": "https://i.ibb.co/QmdB8gd/3.png",
+    "title": "Faulkner Ave",
+    "address": "909 Woodland St, Michigan, IN",
+    "price": "4,550",
+    "beds": "4",
+    "bathrooms": "3",
+    "size": "8x10",
+    "status": "maintenance",
+    "sqm": "132"
+  },
+  {
+    "_id": "04",
+    "image": "https://i.ibb.co/3CtHRyc/4.png",
+    "title": "St. Crystal",
+    "address": "210 US Highway, Highland Lake, FL",
+    "price": "2,400",
+    "beds": "4",
+    "bathrooms": "2",
+    "size": "6x8",
+    "status": "request",
+    "sqm": "128"
+  },
+  {
+    "_id": "05",
+    "image": "https://i.ibb.co/QmdB8gd/3.png",
+    "title": "Cove Red",
+    "address": "243 Curlew Road, Palm Harbor, TX",
+    "price": "1,500",
+    "beds": "2",
+    "bathrooms": "1",
+    "size": "5x7.5",
+    "status": "vacant",
+    "sqm": "128"
+  },
+  {
+    "_id": "06",
+    "image": "https://i.ibb.co/QkzJ4M8/6.png",
+    "title": "The Old Steele",
+    "address": "103 Lake Shores, Michigan, IN",
+    "price": "1,600",
+    "beds": "3",
+    "bathrooms": "1",
+    "size": "5x7",
+    "status": "active",
+    "sqm": "128"
+  }
+]
